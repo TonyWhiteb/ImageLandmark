@@ -8,6 +8,10 @@
 
 .txt
 
+#ignore data folder
+
+LandMark_data/
+
 #.venvs folder
 .venvs/
 #.vscode folder
